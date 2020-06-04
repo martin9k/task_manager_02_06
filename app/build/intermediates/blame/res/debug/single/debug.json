@@ -56,6 +56,10 @@
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\cfcd26d0b32fafcfb61474a570a1a388\\material-1.1.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     },
     {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_acitivty_new_word.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-sw600dp\\acitivty_new_word.xml"
+    },
+    {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\9427e7becd1ca9d1ab1683725ad7174d\\appcompat-1.1.0\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -564,6 +568,10 @@
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\6390abdc842ce60a450cb8547d287ac6\\fragment-1.2.0\\res\\anim-v21\\fragment_fast_out_extra_slow_in.xml"
     },
     {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_updateinputfield.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-sw600dp\\updateinputfield.xml"
+    },
+    {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\9427e7becd1ca9d1ab1683725ad7174d\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
@@ -748,6 +756,10 @@
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\cfcd26d0b32fafcfb61474a570a1a388\\material-1.1.0\\res\\color\\mtrl_fab_ripple_color.xml"
     },
     {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_home.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-land\\activity_home.xml"
+    },
+    {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\9427e7becd1ca9d1ab1683725ad7174d\\appcompat-1.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
@@ -920,6 +932,10 @@
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\9427e7becd1ca9d1ab1683725ad7174d\\appcompat-1.1.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_login_google.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-land\\activity_login_google.xml"
+    },
+    {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\15d86eea8cb634b4418bbc661654459c\\play-services-base-17.1.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
@@ -1072,6 +1088,10 @@
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\9427e7becd1ca9d1ab1683725ad7174d\\appcompat-1.1.0\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_updateinputfield.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-land\\updateinputfield.xml"
+    },
+    {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\9427e7becd1ca9d1ab1683725ad7174d\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
@@ -1152,6 +1172,10 @@
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\9427e7becd1ca9d1ab1683725ad7174d\\appcompat-1.1.0\\res\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
     },
     {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_notification.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-sw600dp\\notification.xml"
+    },
+    {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\9427e7becd1ca9d1ab1683725ad7174d\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
@@ -1196,12 +1220,12 @@
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\9427e7becd1ca9d1ab1683725ad7174d\\appcompat-1.1.0\\res\\drawable\\btn_radio_off_to_on_mtrl_animation.xml"
     },
     {
-        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_close.png.flat",
-        "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\df62a01b78bca5520e8914cfed640fb0\\jetified-facebook-common-5.15.3\\res\\drawable-hdpi-v4\\com_facebook_close.png"
-    },
-    {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_messenger_button_white_bg_round.xml.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\fa1f0224d514dd499a4f9be821b056a7\\facebook-messenger-5.15.3\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_close.png.flat",
+        "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\df62a01b78bca5520e8914cfed640fb0\\jetified-facebook-common-5.15.3\\res\\drawable-hdpi-v4\\com_facebook_close.png"
     },
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -1246,6 +1270,10 @@
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\9427e7becd1ca9d1ab1683725ad7174d\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_activity_main.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-sw600dp\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backdesign.xml.flat",
@@ -1368,6 +1396,10 @@
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\df62a01b78bca5520e8914cfed640fb0\\jetified-facebook-common-5.15.3\\res\\layout\\com_facebook_login_fragment.xml"
     },
     {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_activity_demo.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-sw600dp\\activity_demo.xml"
+    },
+    {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_mainmenu.xml.flat",
         "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\menu\\mainmenu.xml"
     },
@@ -1410,6 +1442,10 @@
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_btn_checkbox_checked_mtrl_animation_interpolator_1.xml.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\9427e7becd1ca9d1ab1683725ad7174d\\appcompat-1.1.0\\res\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_recylerview_item.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-land\\recylerview_item.xml"
     },
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
@@ -1538,6 +1574,10 @@
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_text.xml.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\cfcd26d0b32fafcfb61474a570a1a388\\material-1.1.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_registration.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-land\\activity_registration.xml"
     },
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_extended_fab_ripple_color.xml.flat",
@@ -1932,6 +1972,10 @@
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\9427e7becd1ca9d1ab1683725ad7174d\\appcompat-1.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\color_design_icon_tint.xml.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\cfcd26d0b32fafcfb61474a570a1a388\\material-1.1.0\\res\\color\\design_icon_tint.xml"
     },
@@ -2034,6 +2078,10 @@
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_year.xml.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\cfcd26d0b32fafcfb61474a570a1a388\\material-1.1.0\\res\\layout\\mtrl_calendar_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_item_data.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-land\\item_data.xml"
     },
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
@@ -2146,6 +2194,10 @@
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_text_btn_ripple_color.xml.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\cfcd26d0b32fafcfb61474a570a1a388\\material-1.1.0\\res\\color\\mtrl_btn_text_btn_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_item_data.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-sw600dp\\item_data.xml"
     },
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
@@ -2292,12 +2344,12 @@
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\fa1f0224d514dd499a4f9be821b056a7\\facebook-messenger-5.15.3\\res\\drawable-xhdpi-v4\\messenger_bubble_large_blue.png"
     },
     {
-        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\e84e3bab8505023a3acf23b2051597bf\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_close_icon_tint.xml.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\cfcd26d0b32fafcfb61474a570a1a388\\material-1.1.0\\res\\color\\mtrl_chip_close_icon_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\e84e3bab8505023a3acf23b2051597bf\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
@@ -2392,8 +2444,16 @@
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\cfcd26d0b32fafcfb61474a570a1a388\\material-1.1.0\\res\\layout\\mtrl_alert_select_dialog_singlechoice.xml"
     },
     {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_recylerview_item.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-sw600dp\\recylerview_item.xml"
+    },
+    {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\cfcd26d0b32fafcfb61474a570a1a388\\material-1.1.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_custominputfield.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-sw600dp\\custominputfield.xml"
     },
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_icon_color_selector.xml.flat",
@@ -2520,12 +2580,12 @@
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\15d86eea8cb634b4418bbc661654459c\\play-services-base-17.1.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
-        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrl_ic_arrow_drop_up.xml.flat",
-        "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\cfcd26d0b32fafcfb61474a570a1a388\\material-1.1.0\\res\\drawable\\mtrl_ic_arrow_drop_up.xml"
-    },
-    {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrl_dropdown_arrow.xml.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\cfcd26d0b32fafcfb61474a570a1a388\\material-1.1.0\\res\\drawable\\mtrl_dropdown_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrl_ic_arrow_drop_up.xml.flat",
+        "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\cfcd26d0b32fafcfb61474a570a1a388\\material-1.1.0\\res\\drawable\\mtrl_ic_arrow_drop_up.xml"
     },
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -2616,6 +2676,10 @@
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\9427e7becd1ca9d1ab1683725ad7174d\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_notification.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-land\\notification.xml"
+    },
+    {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\35e9f6a39c0323c21644455acd4ee649\\jetified-facebook-login-5.15.3\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_topnub.png"
     },
@@ -2662,6 +2726,10 @@
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\9427e7becd1ca9d1ab1683725ad7174d\\appcompat-1.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_demo.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-land\\activity_demo.xml"
     },
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_text_view_with_theme_line_height.xml.flat",
@@ -2820,6 +2888,10 @@
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\cfcd26d0b32fafcfb61474a570a1a388\\material-1.1.0\\res\\drawable\\mtrl_popupmenu_background.xml"
     },
     {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_custominputfield.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-land\\custominputfield.xml"
+    },
+    {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\9427e7becd1ca9d1ab1683725ad7174d\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
@@ -2830,6 +2902,10 @@
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_text_btn_bg_color_selector.xml.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\cfcd26d0b32fafcfb61474a570a1a388\\material-1.1.0\\res\\color\\mtrl_btn_text_btn_bg_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_activity_login_google.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-sw600dp\\activity_login_google.xml"
     },
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_messenger_bubble_small_blue.png.flat",
@@ -2912,6 +2988,10 @@
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\e84e3bab8505023a3acf23b2051597bf\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
     },
     {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_acitivty_new_word.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-land\\acitivty_new_word.xml"
+    },
+    {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_end_icon.xml.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\cfcd26d0b32fafcfb61474a570a1a388\\material-1.1.0\\res\\layout\\design_text_input_end_icon.xml"
     },
@@ -2984,6 +3064,10 @@
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\6390abdc842ce60a450cb8547d287ac6\\fragment-1.2.0\\res\\anim\\fragment_close_enter.xml"
     },
     {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_activity_registration.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-sw600dp\\activity_registration.xml"
+    },
+    {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logout.png.flat",
         "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\drawable-mdpi\\logout.png"
     },
@@ -3018,6 +3102,10 @@
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\vrootok\\.gradle\\caches\\transforms-2\\files-2.1\\9427e7becd1ca9d1ab1683725ad7174d\\appcompat-1.1.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_activity_home.xml.flat",
+        "source": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\src\\main\\res\\layout-sw600dp\\activity_home.xml"
     },
     {
         "merged": "C:\\Users\\vrootok\\AndroidStudioProjects\\task_manager_19_05-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_radio_off_mtrl.xml.flat",

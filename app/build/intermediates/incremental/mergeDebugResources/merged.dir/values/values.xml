@@ -904,6 +904,7 @@
     <string name="google_app_id" translatable="false">1:896608813435:android:09053ace2e37babe66fdde</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAenhz8tgpQ2CC7T_D9ERMRBhSxHenwM1M</string>
     <string name="google_storage_bucket" translatable="false">task-68a48.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hint">Email:</string>
     <string name="hint2">Password:</string>
